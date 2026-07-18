@@ -1,6 +1,6 @@
 # 💫 About Me:
-Software Developer | React · TypeScript · Supabase | Facturo.ch
-I build tools that solve real problems. Facturo.ch helps Swiss SMes and Freelancers manage invoicing, accounting and expense tracking without complexity. When not building products, I take on freelance frontend work. Stack: React, TypeScript, Supabase.
+Freelance web developer & founder of Facturo.ch. I build modern web applications with React and TypeScript. Currently working on Facturo, a SaaS platform for Swiss invoicing and accounting. Available for freelance projects.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oumar-c-204b21295/) 
